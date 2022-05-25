@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @syedamirshah7145
+- 👀 I’m interested in Gaming, Coding, Travelling
+- 🌱 I’m currently learning Html,Css,Javascript,Node.js,React.js,MongoDB and other technologies needed to work as full stack web developer.
+- 📫 How to reach me: Email:syedamirshah7145@gmail.com
